@@ -1,0 +1,13 @@
+h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    color: brown;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: gray;
+}
